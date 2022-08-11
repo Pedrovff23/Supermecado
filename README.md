@@ -6,4 +6,5 @@ A função deste gerenciador e listar alguns produtos com o codigo identificador
 
 **Este gerenciador foi feito em java podendo utilizar o terminal ou o jframe.**</br>
 
+## Linguagem usada
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
