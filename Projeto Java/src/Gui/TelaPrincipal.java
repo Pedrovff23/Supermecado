@@ -10,6 +10,7 @@ public class TelaPrincipal extends JFrame {
      */
 
     TelaPrincipal() {
+        super()
         setSize(250, 200);
         setVisible(true);
         setDefaultCloseOperation(EXIT_ON_CLOSE);
